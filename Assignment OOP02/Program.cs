@@ -178,6 +178,47 @@
             #endregion
 
 
+            #region Part 02 :Encapsulation
+            //Console.WriteLine(" Please enter Employee data");
+
+            //Employees[] EmpArr = new Employees[3];
+            //for (int i = 0; i < EmpArr.Length; i++)
+            //{
+            //    EmpArr[i] = new Employees();
+            //    Console.WriteLine($" Employee 0{i + 1} : ");
+            //    Console.Write(" Id : ");
+            //    EmpArr[i].Id = int.Parse(Console.ReadLine());
+            //    Console.Write(" Name : ");
+            //    EmpArr[i].Name = Console.ReadLine();
+            //    Console.Write(" Security Level : ");
+            //    Enum.TryParse<SecurityLevel>(Console.ReadLine(), true, out SecurityLevel Result);
+            //    EmpArr[i].SecurityLevel = Result;
+            //    Console.Write(" Salary : ");
+            //    EmpArr[i].Salary = decimal.Parse(Console.ReadLine());
+            //    Console.WriteLine(" Hiring date : ");
+            //    Console.Write(" Day: ");
+            //    int Day = int.Parse(Console.ReadLine());
+            //    Console.Write(" Month: ");
+            //    int Month = int.Parse(Console.ReadLine());
+            //    Console.Write(" Year: ");
+            //    int Year = int.Parse(Console.ReadLine());
+            //    HiringDate HireDate = new HiringDate(Day, Month, Year);
+            //    EmpArr[i].Hiredate = HireDate;
+            //    Console.Write(" Gender : ");
+            //    Enum.TryParse<Gender>(Console.ReadLine(), true, out Gender gender);
+            //    EmpArr[i].gender = gender;
+            //}
+
+            //Console.Clear();
+
+            //for (int i = 0; i < EmpArr.Length; i++)
+            //{
+            //    Console.WriteLine($" Employee  Data {i + 1} : ");
+            //    Console.WriteLine(EmpArr[i]);
+            //    Console.WriteLine();
+            //}
+
+            #endregion
 
 
 
